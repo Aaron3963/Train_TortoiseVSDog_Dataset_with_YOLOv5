@@ -16,8 +16,8 @@ Detection result:<br>
 Detection Video Samples: 
 
 1)	![Video 1](https://youtu.be/WDe7GYjWg_c)<br>
-2)	![Video 1](https://youtu.be/GLoMuuVcNzQ)<br>
-3)	![Video 1](https://youtu.be/0BjK396Qg24)<br>
+2)	![Video 2](https://youtu.be/GLoMuuVcNzQ)<br>
+3)	![Video 3](https://youtu.be/0BjK396Qg24)<br>
 
 
 ## Download Complete Dataset
