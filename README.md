@@ -15,9 +15,9 @@ Detection result:<br>
 ![Detection](https://github.com/Aaron3963/Train_TortoiseVSDog_Dataset_with_YOLOv5/blob/master/imgFolder/203041.jpg)
 Detection Video Samples: 
 
-1)	![Video 1](https://youtu.be/WDe7GYjWg_c)<br>
-2)	![Video 2](https://youtu.be/GLoMuuVcNzQ)<br>
-3)	![Video 3](https://youtu.be/0BjK396Qg24)<br>
+1)	[Demo Video 1](https://youtu.be/WDe7GYjWg_c)
+2)	[Demo Video 2](https://youtu.be/GLoMuuVcNzQ)
+3)	[Demo Video 3](https://youtu.be/0BjK396Qg24)
 
 
 ## Download Complete Dataset
